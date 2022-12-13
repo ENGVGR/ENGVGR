@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Vinícius</h1>
 <h3 align="center">Apaixonado por programação</h3>
 
-- 💬 Me pergunte sobre **React, Javascript, HTML, CSS, Python, C++**
+- 💬 Me pergunte sobre **React, Node, Javascript, TypeScript, HTML, CSS, Python, C++**
 
 - 📫 Você me acha através do e-mail **vgrgonzaga@outlook.com**
 
